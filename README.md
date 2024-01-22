@@ -6,6 +6,3 @@ After downloading, you can open the zip file in AppBuilder and install the appli
 ![Application started](Screenshot1.jpg)
 
 
-![Alkalmazás Kép](screenshot1.png)
-![Alkalmazás Kép](screenshot1.png)
-![Alkalmazás Kép](screenshot1.png)
