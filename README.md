@@ -3,7 +3,7 @@ The application naturally displays the calculated decibel value according to the
 The clear button starts this process from the beginning.
 After downloading, you can open the zip file in AppBuilder and install the application.
 
-![Application started](Screenshot_20240122-104818_DecibelMr(reklmmentes).jpg)
+![Application started](Screenshot1.jpg)
 
 
 ![Alkalmazás Kép](screenshot1.png)
